@@ -1,0 +1,5 @@
+SN|Student Name|Mobile Number|Email|Course Enroll|Remarks
+1|Ram|9841000000|abc@gmail.com|java|
+2|Shyam|9841999999|shyam@gmail.com|php|
+3|Hari|9851000000|hari@example.com|java|interested
+4|Geeta|9841123456|geeta@yhoo.com|spss|
